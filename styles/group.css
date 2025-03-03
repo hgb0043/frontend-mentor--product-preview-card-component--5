@@ -1,0 +1,11 @@
+.title,
+.discount-price {
+    font-family: fraunces;
+}
+
+.item-type,
+.description,
+.original-price,
+.add-to-cart-button {
+    font-family: montserrat;
+}
